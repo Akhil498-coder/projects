@@ -1,4 +1,5 @@
- projects
+
+ 
 CIFAR-10 CNN Image Classification
 This repository contains a PyTorch implementation of a Convolutional Neural Network (CNN) for image classification on the CIFAR-10 dataset. This project includes functionality to train the model on subsets of the dataset.
 
