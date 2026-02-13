@@ -47,6 +47,8 @@ Run the script.
 The script will download the dataset, train the model, and display results.
 
 Project Structure
+
+
 .
 ├── project_image.ipynb
 └── cifar10_models/
@@ -164,9 +166,8 @@ jupyter lab statisticsly.ipynb
 Execute Cells:
 Run all cells in the notebook sequentially. The output will guide you through each step of the analysis, cleaning, feature engineering, and preprocessing.
 
-Project Structure
-.
-└── statisticsly.ipynb  # Main Jupyter Notebook for Titanic data analysis
+
+  # Main Jupyter Notebook for Titanic data analysis
 
 Final Dataset Statistics
 After running the notebook, the processed dataset will be ready for machine learning. Key statistics are printed at the end of the notebook:
